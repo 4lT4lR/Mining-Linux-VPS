@@ -6,7 +6,7 @@
  
 ## And Copy Paste Command :-
  
-**sudo apt-get install automake libcurl4-openssl-dev pkg-config libjansson-dev libssl-dev libgmp-dev make g++ autoconf && sudo apt install unzip && sudo unzip cpuminer-linux.zip && cd cpuminer-linux && ./build.sh**
+**sudo apt-get install automake libcurl4-openssl-dev pkg-config libjansson-dev libssl-dev libgmp-dev make g++ autoconf && sudo apt install unzip && sudo mkdir /home/cpuminer-linux && sudo unzip cpuminer-linux.zip -d /home/cpuminer-linux && cd /home/cpuminer-linux && ./build.sh**
   
 ## Finally Run Scrypt And Put Your Info :-
  
